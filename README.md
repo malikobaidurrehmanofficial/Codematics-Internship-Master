@@ -17,9 +17,9 @@ Each task is maintained in a **separate GitHub repository** as per internship gu
 
 | Day | Task Title | Repository Link |
 |----|-----------|----------------|
-| Task1 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task1 |
-| Task2 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task2 |
-| Task3 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task3 |
+| Task1 | Layout design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task1 |
+| Task2 | Cathub Lnding Page | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task2 |
+| Task3 | A Form Design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task3 |
 
 
 
