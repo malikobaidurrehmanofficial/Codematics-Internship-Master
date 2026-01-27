@@ -6,9 +6,9 @@ Each task is maintained in a **separate GitHub repository** as per internship gu
 ---
 
 ## Internship Details
-- **Internship Name:** ______________________
-- **Organization:** ______________________
-- **Duration:** ______________________
+- **Internship Name:** Full Stack Developer
+- **Organization:** Codematics
+- **Duration:**  8 week
 - **Intern Name:** Malik Obaid Ur Rehman
 
 ---
@@ -18,10 +18,7 @@ Each task is maintained in a **separate GitHub repository** as per internship gu
 | Day | Task Title | Repository Link |
 |----|-----------|----------------|
 | Task1 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task1 |
-
-
 | Task2 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task2 |
-
 | Task3 | ______________________ | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task3 |
 
 
