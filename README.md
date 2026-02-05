@@ -22,6 +22,7 @@ Each task is maintained in a **separate GitHub repository** as per internship gu
 | Task3 | A Form Design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task3 |
 | Task4 | Redclub page design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task4 |
 | Task5 | Keefer law firm page design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task5 |
+| Task6 | Ahsan portfoio design using tailwind | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task6 |
 
 
 
