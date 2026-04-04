@@ -23,7 +23,11 @@ Each task is maintained in a **separate GitHub repository** as per internship gu
 | Task4 | Redclub page design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task4 |
 | Task5 | Keefer law firm page design | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task5 |
 | Task6 | Ahsan portfoio design using tailwind | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task6 |
-
+| Task7 |Multi-Converter Application | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task7 |
+| Task8 |JavaScript Practice Project | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task8 |
+| Task9 | Library Management System | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task9 |
+| Task10 | Movix – Modern Movie Discovery App | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task10 |
+| Task11 | Movix – Modern Movie Discovery App | https://github.com/malikobaidurrehmanofficial/Codematics-Internship-Task11 |
 
 
 > Each repository contains:
